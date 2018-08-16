@@ -190,6 +190,7 @@ exploring  383
 =n with  383 461
 =n with  383 41057
 exploring  389
+=n with  389 5594623
 exploring  397
 exploring  401
 =n with  401 3527
@@ -227,6 +228,7 @@ exploring  491
 =n with  491 15641
 =n with  491 325301
 =n with  491 5163703
+=n with  491 5809319
 exploring  499
 =n with  499 2806543
 exploring  503
@@ -816,6 +818,9 @@ exploring  2377
 exploring  2381
 exploring  2383
 =n with  2383 2186731
+=n with  2383 5683987
+=n with  2383 5690371
+=n with  2383 5701291
 exploring  2389
 exploring  2393
 =n with  2393 11159
@@ -1266,6 +1271,7 @@ exploring  4079
 =n with  4079 2056919
 =n with  4079 2331899
 =n with  4079 2604299
+=n with  4079 5545447
 exploring  4091
 exploring  4093
 exploring  4099
@@ -2115,4 +2121,5 @@ exploring  7901
 =n with  7901 97987
 exploring  7907
 =n with  7907 2962417
+=n with  7907 5851897
 exploring  7919
