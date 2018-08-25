@@ -31,7 +31,7 @@ def next_step(ntt, ps):
 
 def check_p(pp):
     print("exploring ", p)
-    for n in range(5500001, 6000000, 2):
+    for n in range(6000001, 6500000, 2):
         n_started = n
         nt = n
         n_set = set()

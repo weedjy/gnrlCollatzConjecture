@@ -81,6 +81,7 @@ exploring  139
 =n with  139 4629617
 =n with  139 4694281
 =n with  139 4875127
+=n with  139 6057427
 exploring  149
 exploring  151
 =n with  151 5501
@@ -364,6 +365,7 @@ exploring  761
 =n with  761 189149
 =n with  761 191791
 =n with  761 370147
+=n with  761 6183011
 exploring  769
 =n with  769 6043
 =n with  769 7079
@@ -605,6 +607,7 @@ exploring  1571
 exploring  1579
 =n with  1579 739787
 =n with  1579 3242431
+=n with  1579 6469943
 exploring  1583
 =n with  1583 2111
 =n with  1583 2517271
@@ -683,6 +686,7 @@ exploring  1871
 =n with  1871 824393
 =n with  1871 3725411
 exploring  1873
+=n with  1873 6114697
 exploring  1877
 =n with  1877 2713
 =n with  1877 2999
@@ -711,6 +715,7 @@ exploring  1931
 exploring  1933
 exploring  1949
 exploring  1951
+=n with  1951 6171967
 exploring  1973
 =n with  1973 5087
 =n with  1973 52081
@@ -821,6 +826,7 @@ exploring  2383
 =n with  2383 5683987
 =n with  2383 5690371
 =n with  2383 5701291
+=n with  2383 6082939
 exploring  2389
 exploring  2393
 =n with  2393 11159
@@ -1272,6 +1278,7 @@ exploring  4079
 =n with  4079 2331899
 =n with  4079 2604299
 =n with  4079 5545447
+=n with  4079 6380963
 exploring  4091
 exploring  4093
 exploring  4099
@@ -1284,7 +1291,9 @@ exploring  4129
 =n with  4129 2383049
 exploring  4133
 =n with  4133 295877
+exploring  4139
 =n with  4139 126067
+=n with  4139 6133199
 exploring  4153
 exploring  4157
 exploring  4159
@@ -1394,6 +1403,7 @@ exploring  4597
 =n with  4597 142837
 =n with  4597 209977
 =n with  4597 4742147
+=n with  4597 6487991
 exploring  4603
 exploring  4621
 =n with  4621 10663
