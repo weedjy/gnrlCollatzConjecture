@@ -1,7 +1,3 @@
-# coding=utf-8
-
-
-# creating first 1000 primes
 from math import sqrt
 
 primes = [2]
@@ -18,7 +14,6 @@ while count < 1000:
         count += 1
 print(primes)
 
-
 def next_step(ntt, ps):
     for q in primes:
         if q < ps:
@@ -28,10 +23,9 @@ def next_step(ntt, ps):
             break
     return ntt * ps + 1
 
-
 def check_p(pp):
     print("exploring ", p)
-    for n in range(6000001, 6500000, 2):
+    for n in range(17000001, 17500000, 2):
         n_started = n
         nt = n
         n_set = set()
@@ -61,7 +55,7 @@ def check_p(pp):
             else:
                 sl = len(n_set)
                 if sl > 10000:
-                  print("warn: sl={0} for n_started={1}", sl, n_started)
+                  print("warn: sl={} for n_started={}".format(sl, n_started))
 
 for p in primes[2:]:
     check_p(p)
