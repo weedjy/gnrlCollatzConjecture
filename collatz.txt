@@ -117,6 +117,7 @@ exploring  227
 =n with  227 50789
 exploring  229
 =n with  229 7797743
+=n with  229 17980037
 exploring  233
 =n with  233 1181
 =n with  233 3288619
@@ -267,6 +268,7 @@ exploring  593
 =n with  593 1019
 exploring  599
 =n with  599 4663
+=n with  599 17679091
 exploring  601
 =n with  601 1637
 =n with  601 7589173
@@ -1359,6 +1361,14 @@ exploring  4079
 =n with  4079 17169343
 =n with  4079 17354269
 =n with  4079 17366891
+=n with  4079 17514829
+=n with  4079 17579951
+=n with  4079 17660879
+=n with  4079 17720207
+=n with  4079 17797789
+=n with  4079 17806499
+=n with  4079 17847787
+=n with  4079 17898317
 exploring  4091
 exploring  4093
 exploring  4099
@@ -2072,6 +2082,7 @@ exploring  7103
 exploring  7109
 =n with  7109 25373
 =n with  7109 7439111
+=n with  7109 17647577
 exploring  7121
 =n with  7121 74197
 =n with  7121 114083
