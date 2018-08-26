@@ -1,4 +1,7 @@
+# coding=utf-8
+
 from math import sqrt
+
 
 primes = [2]
 
@@ -25,7 +28,7 @@ def next_step(ntt, ps):
 
 def check_p(pp):
     print("exploring ", p)
-    for n in range(17000001, 17500000, 2):
+    for n in range(17500001, 18000000, 2):
         n_started = n
         nt = n
         n_set = set()
