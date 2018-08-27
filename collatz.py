@@ -1,10 +1,8 @@
-# coding=utf-8
-
 from math import sqrt
+import sys
 
 
 primes = [2]
-
 count = 1
 i = 1
 while count < 1000:
@@ -28,7 +26,7 @@ def next_step(ntt, ps):
 
 def check_p(pp):
     print("exploring ", p)
-    for n in range(17500001, 18000000, 2):
+    for n in range(19000001, 19100000, 2):
         n_started = n
         nt = n
         n_set = set()
@@ -62,3 +60,4 @@ def check_p(pp):
 
 for p in primes[2:]:
     check_p(p)
+    sys.stdout.flush()
