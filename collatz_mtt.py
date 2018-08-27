@@ -1,0 +1,66 @@
+from math import sqrt
+import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+
+primes = [2]
+count = 1
+i = 1
+while count < 1000:
+    i += 2
+    for k in range(2, 1+int(sqrt(i+1))):
+        if i%k == 0:       
+            break
+    else:
+        primes.append(i)
+        count += 1
+print(primes)
+
+def next_step(ntt, ps):
+    for q in primes:
+        if q < ps:
+            if (ntt // q) * q == ntt:
+                return ntt // q
+        else:
+            break
+    return ntt * ps + 1
+
+def check_p(pp):
+    print("exploring ", pp)
+    for n in range(19500001, 20000000, 2):
+        n_started = n
+        nt = n
+        n_set = set()
+        n_set.add(nt)
+        sl = len(n_set)
+        # print("checking ", pp, nt, '\t\t', end='')
+        # print("checking ", pp, nt)
+        while True:
+            nt = next_step(nt, pp)
+            n_set.add(nt)
+            # print(nt, "->", end='')
+            if nt == 1:
+                break
+            elif nt == n_started:
+                print("=n with ", pp, n)
+                break
+            elif nt < n_started:
+                break
+            elif len(n_set) == sl and n_started not in n_set:
+                print(">n with ", pp, n)
+                # print(n_set)
+                break
+            elif len(n_set) == sl and n_started in n_set:
+                print("=n with ", pp, n)
+                # print(n_set)
+                break
+            else:
+                sl = len(n_set)
+                if sl > 10000:
+                  print("warn: sl={} for n_started={}".format(sl, n_started))
+
+with ThreadPoolExecutor(max_workers=4) as pool:
+    results = [pool.submit(check_p, p) for p in primes[2:]]
+    for future in as_completed(results):
+        print(future.result())
+        sys.stdout.flush()
