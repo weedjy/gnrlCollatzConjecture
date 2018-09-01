@@ -40,8 +40,8 @@ func check_p(pp *big.Int) {
 	amt := time.Duration(rand.Intn(250))
 	time.Sleep(time.Millisecond * amt)
 	// fmt.Println("exploring ", pp) // useless when parallel run
-	n_limit := big.NewInt(21000000)
-	n_start := big.NewInt(100001)
+	n_limit := big.NewInt(23000000)
+	n_start := big.NewInt(22000001)
 	for n := n_start; n.Cmp(n_limit) == -1; n.Add(n, TWO) {
 		n_started := n
 		nt := n
