@@ -20,7 +20,8 @@ for ln in results:
 
 primes_to_check_file = codecs.open("primes-to-check.txt", "w", "utf-8")
 output = list(primes_to_check)
-output.append(4079)
+output.append(4079)  # very:) interesting number, continue to check it
 output.sort()
+primes_to_check_file.write(u'size = ' + str(len(output)) + u'\n')
 primes_to_check_file.write(str(output))
 primes_to_check_file.close()
