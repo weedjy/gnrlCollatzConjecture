@@ -1,0 +1,2282 @@
+exploring  5
+exploring  7
+exploring  11
+=n with  11 17
+exploring  13
+=n with  13 19
+exploring  17
+=n with  17 43
+exploring  19
+=n with  19 46063
+exploring  23
+=n with  23 179
+exploring  29
+exploring  31
+=n with  31 67
+exploring  37
+=n with  37 2173
+exploring  41
+exploring  43
+=n with  43 174569
+exploring  47
+=n with  47 859
+=n with  47 2243
+exploring  53
+=n with  53 19559
+exploring  59
+=n with  59 73
+exploring  61
+=n with  61 97
+=n with  61 137
+=n with  61 199
+=n with  61 653
+=n with  61 2213
+=n with  61 11437
+=n with  61 26833
+exploring  67
+=n with  67 181
+exploring  71
+=n with  71 306511
+exploring  73
+=n with  73 409
+=n with  73 2741
+=n with  73 11437
+=n with  73 14929
+=n with  73 140729
+exploring  79
+exploring  83
+=n with  83 89
+=n with  83 4049
+exploring  89
+exploring  97
+=n with  97 631
+=n with  97 1093
+=n with  97 1109
+exploring  101
+=n with  101 661
+exploring  103
+=n with  103 11131
+exploring  107
+exploring  109
+exploring  113
+=n with  113 857
+=n with  113 1181
+exploring  127
+exploring  131
+=n with  131 1787497
+exploring  137
+=n with  137 1008793
+exploring  139
+=n with  139 1789589
+=n with  139 2207561
+=n with  139 2596871
+=n with  139 3454901
+=n with  139 3753307
+=n with  139 4001927
+=n with  139 4010723
+=n with  139 4232731
+=n with  139 4502731
+=n with  139 4536949
+=n with  139 4544161
+=n with  139 4629617
+=n with  139 4694281
+=n with  139 4875127
+=n with  139 6057427
+=n with  139 7424821
+exploring  149
+exploring  151
+=n with  151 5501
+=n with  151 20173
+exploring  157
+exploring  163
+=n with  163 383
+=n with  163 21174589
+exploring  167
+=n with  167 1787
+=n with  167 1871
+=n with  167 2027
+=n with  167 2661509
+=n with  167 2675419
+=n with  167 3231331
+=n with  167 4232219
+exploring  173
+=n with  173 1697
+=n with  173 2113
+exploring  179
+exploring  181
+=n with  181 991
+exploring  191
+exploring  193
+=n with  193 233
+exploring  197
+=n with  197 3543521
+exploring  199
+exploring  211
+exploring  223
+=n with  223 503
+exploring  227
+=n with  227 50789
+exploring  229
+=n with  229 7797743
+=n with  229 17980037
+exploring  233
+=n with  233 1181
+=n with  233 3288619
+=n with  233 3854677
+exploring  239
+=n with  239 431
+=n with  239 557
+=n with  239 1013
+=n with  239 1697
+=n with  239 2711
+=n with  239 4583
+exploring  241
+=n with  241 2713
+=n with  241 11273
+=n with  241 30931
+exploring  251
+=n with  251 1831
+exploring  257
+=n with  257 461
+=n with  257 2543477
+exploring  263
+=n with  263 2579
+=n with  263 3863
+=n with  263 6827
+=n with  263 6991
+exploring  269
+=n with  269 523
+=n with  269 911
+=n with  269 977
+exploring  271
+=n with  271 337
+exploring  277
+=n with  277 5851
+exploring  281
+=n with  281 281
+=n with  281 521
+=n with  281 230123
+exploring  283
+=n with  283 311
+=n with  283 521
+=n with  283 593
+exploring  293
+=n with  293 22777
+=n with  293 27733
+=n with  293 42221
+=n with  293 48871
+=n with  293 270859
+=n with  293 472391
+exploring  307
+exploring  311
+exploring  313
+=n with  313 17077
+exploring  317
+exploring  331
+=n with  331 3073813
+exploring  337
+exploring  347
+=n with  347 892999
+exploring  349
+exploring  353
+=n with  353 48239
+exploring  359
+exploring  367
+=n with  367 619
+=n with  367 5309
+=n with  367 9551
+=n with  367 71209
+=n with  367 142031
+exploring  373
+=n with  373 4519
+exploring  379
+=n with  379 857
+exploring  383
+=n with  383 461
+=n with  383 41057
+exploring  389
+=n with  389 5594623
+exploring  397
+exploring  401
+=n with  401 3527
+=n with  401 72077
+exploring  409
+=n with  409 967
+=n with  409 9241
+exploring  419
+exploring  421
+=n with  421 526649
+=n with  421 1062947
+=n with  421 4424353
+=n with  421 6784933
+=n with  421 9322931
+exploring  431
+=n with  431 743
+=n with  431 249967
+exploring  433
+exploring  439
+exploring  443
+exploring  449
+=n with  449 65497
+exploring  457
+=n with  457 521
+exploring  461
+=n with  461 521
+=n with  461 617
+=n with  461 1163
+exploring  463
+exploring  467
+=n with  467 499
+=n with  467 2441
+=n with  467 21859
+exploring  479
+exploring  487
+exploring  491
+=n with  491 15641
+=n with  491 325301
+=n with  491 5163703
+=n with  491 5809319
+exploring  499
+=n with  499 2806543
+exploring  503
+=n with  503 532867
+exploring  509
+=n with  509 2187221
+exploring  521
+exploring  523
+=n with  523 3739
+exploring  541
+=n with  541 356731
+=n with  541 910099
+exploring  547
+=n with  547 12473
+=n with  547 13723
+=n with  547 9903407
+exploring  557
+exploring  563
+=n with  563 587
+exploring  569
+exploring  571
+=n with  571 14533
+exploring  577
+=n with  577 661
+=n with  577 296273
+=n with  577 360653
+exploring  587
+=n with  587 855923
+exploring  593
+=n with  593 827
+=n with  593 1019
+exploring  599
+=n with  599 4663
+=n with  599 17679091
+exploring  601
+=n with  601 1637
+=n with  601 7589173
+exploring  607
+=n with  607 4171571
+exploring  613
+=n with  613 6299
+exploring  617
+=n with  617 306463
+=n with  617 14280659
+exploring  619
+=n with  619 22853
+exploring  631
+exploring  641
+=n with  641 14149
+=n with  641 32609
+=n with  641 4331557
+exploring  643
+exploring  647
+exploring  653
+exploring  659
+=n with  659 2731
+=n with  659 3331
+exploring  661
+=n with  661 691
+=n with  661 977
+exploring  673
+=n with  673 27337
+exploring  677
+=n with  677 11467
+exploring  683
+=n with  683 7207
+=n with  683 2282209
+exploring  691
+=n with  691 1489
+=n with  691 96043
+=n with  691 128311
+exploring  701
+=n with  701 95483
+exploring  709
+=n with  709 341461
+=n with  709 23302819
+exploring  719
+=n with  719 1579
+=n with  719 120371
+=n with  719 130579
+=n with  719 193871
+=n with  719 346187
+=n with  719 494803
+=n with  719 496459
+=n with  719 525719
+=n with  719 532099
+=n with  719 535061
+=n with  719 535783
+=n with  719 535967
+=n with  719 539311
+=n with  719 547663
+=n with  719 550163
+=n with  719 557573
+=n with  719 569111
+=n with  719 573899
+=n with  719 615151
+=n with  719 628583
+=n with  719 629243
+=n with  719 647551
+=n with  719 681539
+=n with  719 705181
+=n with  719 706943
+=n with  719 718139
+=n with  719 721451
+=n with  719 730799
+=n with  719 760289
+=n with  719 763523
+=n with  719 780397
+=n with  719 786763
+=n with  719 788891
+=n with  719 821551
+=n with  719 977029
+=n with  719 986311
+=n with  719 1084087
+=n with  719 1309207
+exploring  727
+=n with  727 1423
+=n with  727 593071
+=n with  727 1335379
+exploring  733
+exploring  739
+=n with  739 27077
+=n with  739 35863
+exploring  743
+=n with  743 5171
+=n with  743 10979
+exploring  751
+=n with  751 881
+=n with  751 2287
+=n with  751 10875611
+exploring  757
+=n with  757 809
+=n with  757 929
+=n with  757 9901
+=n with  757 2560001
+exploring  761
+=n with  761 4091
+=n with  761 87151
+=n with  761 189149
+=n with  761 191791
+=n with  761 370147
+=n with  761 6183011
+exploring  769
+=n with  769 6043
+=n with  769 7079
+=n with  769 1195937
+=n with  769 1288061
+exploring  773
+exploring  787
+=n with  787 2521
+exploring  797
+=n with  797 823
+=n with  797 1163
+exploring  809
+=n with  809 29383
+exploring  811
+exploring  821
+=n with  821 7699
+=n with  821 8563
+=n with  821 8779
+exploring  823
+exploring  827
+exploring  829
+=n with  829 1103
+=n with  829 3313
+=n with  829 1072039
+exploring  839
+=n with  839 1327
+=n with  839 12659
+exploring  853
+exploring  857
+=n with  857 223063
+=n with  857 13698229
+=n with  857 15243539
+exploring  859
+=n with  859 1493
+=n with  859 30869
+=n with  859 53653
+=n with  859 1104853
+exploring  863
+=n with  863 753191
+=n with  863 760519
+=n with  863 791699
+=n with  863 842077
+=n with  863 1065527
+=n with  863 1111499
+exploring  877
+=n with  877 887
+=n with  877 1279
+exploring  881
+=n with  881 1091
+exploring  883
+=n with  883 8839
+=n with  883 1252151
+exploring  887
+exploring  907
+=n with  907 937
+=n with  907 1117
+=n with  907 48491
+exploring  911
+=n with  911 44207
+=n with  911 49991
+=n with  911 55619
+=n with  911 12367037
+exploring  919
+=n with  919 2083
+=n with  919 4663
+=n with  919 849083
+exploring  929
+exploring  937
+=n with  937 12421
+=n with  937 3268799
+=n with  937 4726643
+exploring  941
+exploring  947
+=n with  947 2351
+exploring  953
+exploring  967
+=n with  967 13118317
+exploring  971
+=n with  971 2027
+exploring  977
+exploring  983
+=n with  983 1319
+=n with  983 595139
+exploring  991
+=n with  991 2671
+exploring  997
+exploring  1009
+exploring  1013
+=n with  1013 46649
+=n with  1013 2578489
+exploring  1019
+exploring  1021
+exploring  1031
+=n with  1031 1335667
+exploring  1033
+exploring  1039
+=n with  1039 16127
+exploring  1049
+=n with  1049 9689
+exploring  1051
+=n with  1051 17737
+exploring  1061
+exploring  1063
+=n with  1063 4919
+=n with  1063 8461
+exploring  1069
+=n with  1069 45191
+=n with  1069 173207
+exploring  1087
+=n with  1087 1197751
+exploring  1091
+=n with  1091 1907
+=n with  1091 2099
+exploring  1093
+exploring  1097
+=n with  1097 1151
+exploring  1103
+=n with  1103 32069
+=n with  1103 302941
+=n with  1103 4126349
+exploring  1109
+=n with  1109 261587
+exploring  1117
+=n with  1117 1201
+=n with  1117 2143
+=n with  1117 2591
+=n with  1117 2689
+=n with  1117 2843
+=n with  1117 3701
+=n with  1117 4523
+=n with  1117 4787
+=n with  1117 7561
+exploring  1123
+exploring  1129
+=n with  1129 9239
+=n with  1129 21828343
+exploring  1151
+=n with  1151 60917
+exploring  1153
+=n with  1153 1621
+=n with  1153 29023
+=n with  1153 3713581
+exploring  1163
+=n with  1163 1471
+exploring  1171
+=n with  1171 14323
+=n with  1171 20857
+=n with  1171 38891
+exploring  1181
+exploring  1187
+exploring  1193
+exploring  1201
+=n with  1201 3044791
+exploring  1213
+=n with  1213 1612997
+=n with  1213 5345807
+exploring  1217
+exploring  1223
+exploring  1229
+=n with  1229 1373
+exploring  1231
+=n with  1231 2797
+exploring  1237
+=n with  1237 39343
+exploring  1249
+exploring  1259
+=n with  1259 2341
+=n with  1259 2729
+=n with  1259 3011
+=n with  1259 10831
+exploring  1277
+=n with  1277 2467
+=n with  1277 2917
+=n with  1277 337153
+exploring  1279
+exploring  1283
+exploring  1289
+exploring  1291
+exploring  1297
+exploring  1301
+exploring  1303
+=n with  1303 4084741
+exploring  1307
+=n with  1307 4409
+=n with  1307 5099
+=n with  1307 17359
+=n with  1307 64091
+exploring  1319
+=n with  1319 1613
+exploring  1321
+=n with  1321 7295923
+=n with  1321 9375403
+exploring  1327
+exploring  1361
+=n with  1361 991073
+exploring  1367
+exploring  1373
+exploring  1381
+=n with  1381 8222213
+exploring  1399
+=n with  1399 2029051
+=n with  1399 2888887
+exploring  1409
+=n with  1409 3162529
+exploring  1423
+=n with  1423 5927
+=n with  1423 7853
+exploring  1427
+=n with  1427 7459693
+exploring  1429
+=n with  1429 10322497
+exploring  1433
+exploring  1439
+=n with  1439 2389
+=n with  1439 176849
+exploring  1447
+=n with  1447 1861637
+exploring  1451
+=n with  1451 96457
+=n with  1451 19134937
+exploring  1453
+=n with  1453 1113863
+exploring  1459
+=n with  1459 41777
+=n with  1459 18413149
+exploring  1471
+exploring  1481
+=n with  1481 171473
+exploring  1483
+exploring  1487
+=n with  1487 6011
+=n with  1487 2271799
+exploring  1489
+exploring  1493
+=n with  1493 28603
+exploring  1499
+exploring  1511
+=n with  1511 36637
+exploring  1523
+exploring  1531
+exploring  1543
+=n with  1543 70061
+exploring  1549
+exploring  1553
+=n with  1553 2609
+=n with  1553 875141
+exploring  1559
+exploring  1567
+exploring  1571
+=n with  1571 460087
+exploring  1579
+=n with  1579 739787
+=n with  1579 3242431
+=n with  1579 6469943
+exploring  1583
+=n with  1583 2111
+=n with  1583 2517271
+=n with  1583 3979229
+exploring  1597
+exploring  1601
+exploring  1607
+exploring  1609
+exploring  1613
+exploring  1619
+exploring  1621
+exploring  1627
+exploring  1637
+=n with  1637 4937
+=n with  1637 865643
+exploring  1657
+exploring  1663
+=n with  1663 12889
+=n with  1663 22727
+=n with  1663 1986311
+exploring  1667
+exploring  1669
+exploring  1693
+exploring  1697
+=n with  1697 5821
+=n with  1697 352217
+=n with  1697 566057
+=n with  1697 1029199
+=n with  1697 1055603
+=n with  1697 2390849
+exploring  1699
+exploring  1709
+=n with  1709 2957
+=n with  1709 5623
+=n with  1709 13686059
+=n with  1709 15060391
+exploring  1721
+=n with  1721 193577
+exploring  1723
+exploring  1733
+exploring  1741
+=n with  1741 963751
+=n with  1741 8961793
+exploring  1747
+exploring  1753
+exploring  1759
+=n with  1759 15787
+exploring  1777
+=n with  1777 1281523
+=n with  1777 3604327
+=n with  1777 3922153
+exploring  1783
+=n with  1783 3186907
+=n with  1783 5212219
+exploring  1787
+exploring  1789
+=n with  1789 9595367
+exploring  1801
+=n with  1801 3361
+=n with  1801 24691
+=n with  1801 34253
+=n with  1801 87877
+=n with  1801 1703957
+=n with  1801 3026581
+=n with  1801 8415343
+=n with  1801 18628381
+exploring  1811
+exploring  1823
+=n with  1823 2927
+=n with  1823 7823
+=n with  1823 10091
+=n with  1823 3334411
+=n with  1823 5418899
+=n with  1823 6632371
+exploring  1831
+exploring  1847
+=n with  1847 210731
+=n with  1847 4632161
+exploring  1861
+exploring  1867
+exploring  1871
+=n with  1871 595271
+=n with  1871 824393
+=n with  1871 3725411
+exploring  1873
+=n with  1873 6114697
+exploring  1877
+=n with  1877 2713
+=n with  1877 2999
+=n with  1877 3041
+exploring  1879
+=n with  1879 2129
+=n with  1879 203141
+exploring  1889
+=n with  1889 314603
+=n with  1889 425393
+exploring  1901
+=n with  1901 4357
+=n with  1901 17117
+=n with  1901 2596969
+exploring  1907
+=n with  1907 331973
+=n with  1907 1041223
+exploring  1913
+=n with  1913 5689
+=n with  1913 8147
+=n with  1913 9157
+=n with  1913 12979
+exploring  1931
+=n with  1931 12721
+=n with  1931 92033
+exploring  1933
+exploring  1949
+exploring  1951
+=n with  1951 6171967
+=n with  1951 7000663
+exploring  1973
+=n with  1973 5087
+=n with  1973 52081
+=n with  1973 70121
+exploring  1979
+=n with  1979 5861
+=n with  1979 8263
+=n with  1979 16889
+exploring  1987
+exploring  1993
+exploring  1997
+=n with  1997 77419
+=n with  1997 115057
+exploring  1999
+=n with  1999 2099
+=n with  1999 4447
+=n with  1999 94603
+exploring  2003
+exploring  2011
+=n with  2011 3631
+=n with  2011 4397
+exploring  2017
+=n with  2017 6709
+exploring  2027
+=n with  2027 5309
+exploring  2029
+exploring  2039
+exploring  2053
+=n with  2053 8677
+exploring  2063
+=n with  2063 9437
+=n with  2063 1165991
+exploring  2069
+=n with  2069 2383
+=n with  2069 27893
+exploring  2081
+exploring  2083
+=n with  2083 7431937
+exploring  2087
+exploring  2089
+exploring  2099
+=n with  2099 3931
+exploring  2111
+=n with  2111 4994851
+exploring  2113
+exploring  2129
+=n with  2129 11809249
+exploring  2131
+=n with  2131 12491
+=n with  2131 80783
+exploring  2137
+exploring  2141
+exploring  2143
+exploring  2153
+exploring  2161
+exploring  2179
+=n with  2179 17659
+exploring  2203
+=n with  2203 12589
+exploring  2207
+exploring  2213
+=n with  2213 31847
+exploring  2221
+=n with  2221 5647
+exploring  2237
+exploring  2239
+exploring  2243
+exploring  2251
+exploring  2267
+exploring  2269
+exploring  2273
+exploring  2281
+exploring  2287
+=n with  2287 162847
+exploring  2293
+=n with  2293 24767
+exploring  2297
+=n with  2297 9109
+=n with  2297 15331
+exploring  2309
+=n with  2309 2557
+=n with  2309 2741
+exploring  2311
+=n with  2311 6043
+exploring  2333
+=n with  2333 2473
+=n with  2333 14867
+=n with  2333 53377
+exploring  2339
+=n with  2339 3783929
+exploring  2341
+exploring  2347
+=n with  2347 2477
+=n with  2347 38371
+=n with  2347 60611
+=n with  2347 108883
+exploring  2351
+exploring  2357
+exploring  2371
+=n with  2371 22159
+=n with  2371 39503
+=n with  2371 175013
+exploring  2377
+=n with  2377 3671
+=n with  2377 6733
+=n with  2377 395803
+exploring  2381
+=n with  2381 13841489
+exploring  2383
+=n with  2383 2186731
+=n with  2383 5683987
+=n with  2383 5690371
+=n with  2383 5701291
+=n with  2383 6082939
+exploring  2389
+exploring  2393
+=n with  2393 11159
+=n with  2393 14321
+=n with  2393 546323
+exploring  2399
+exploring  2411
+exploring  2417
+=n with  2417 10457
+=n with  2417 30293
+exploring  2423
+exploring  2437
+=n with  2437 12043
+=n with  2437 15937
+=n with  2437 104123
+=n with  2437 148913
+exploring  2441
+exploring  2447
+=n with  2447 23201
+exploring  2459
+=n with  2459 312943
+=n with  2459 12092281
+=n with  2459 17315951
+exploring  2467
+=n with  2467 4003
+exploring  2473
+=n with  2473 17351
+=n with  2473 19571
+exploring  2477
+exploring  2503
+exploring  2521
+=n with  2521 2625761
+exploring  2531
+=n with  2531 4547
+exploring  2539
+exploring  2543
+=n with  2543 2543
+=n with  2543 5237
+=n with  2543 9949
+exploring  2549
+=n with  2549 4057
+=n with  2549 4967
+=n with  2549 24923
+exploring  2551
+=n with  2551 2671
+=n with  2551 3607
+=n with  2551 10889
+=n with  2551 9715963
+exploring  2557
+=n with  2557 9137
+=n with  2557 9949
+=n with  2557 4905653
+exploring  2579
+=n with  2579 135019
+exploring  2591
+exploring  2593
+=n with  2593 218077
+exploring  2609
+=n with  2609 23893
+exploring  2617
+=n with  2617 16879
+exploring  2621
+=n with  2621 2999
+=n with  2621 4877
+=n with  2621 9011
+exploring  2633
+exploring  2647
+=n with  2647 2659
+=n with  2647 6991
+=n with  2647 1530197
+exploring  2657
+exploring  2659
+=n with  2659 14783
+=n with  2659 4213771
+=n with  2659 14117731
+exploring  2663
+=n with  2663 3911
+=n with  2663 20747
+=n with  2663 321833
+exploring  2671
+=n with  2671 1551001
+=n with  2671 4802543
+=n with  2671 7521247
+exploring  2677
+=n with  2677 9043
+=n with  2677 42533
+exploring  2683
+=n with  2683 8985391
+exploring  2687
+=n with  2687 2767
+=n with  2687 3911
+=n with  2687 2291327
+=n with  2687 2318917
+=n with  2687 7243289
+=n with  2687 7287193
+=n with  2687 7549391
+=n with  2687 8289433
+=n with  2687 9285751
+=n with  2687 9440803
+=n with  2687 16214903
+exploring  2689
+exploring  2693
+=n with  2693 1651553
+exploring  2699
+=n with  2699 7823
+=n with  2699 15199
+exploring  2707
+=n with  2707 35281
+=n with  2707 460181
+exploring  2711
+=n with  2711 3271
+=n with  2711 4783
+=n with  2711 6229
+=n with  2711 503213
+=n with  2711 678037
+exploring  2713
+=n with  2713 3529
+=n with  2713 15269
+exploring  2719
+=n with  2719 2475019
+exploring  2729
+=n with  2729 4409
+=n with  2729 170101
+exploring  2731
+=n with  2731 146093
+=n with  2731 15343019
+exploring  2741
+=n with  2741 14633
+=n with  2741 31189
+=n with  2741 48991
+exploring  2749
+=n with  2749 49157
+=n with  2749 80317
+exploring  2753
+exploring  2767
+=n with  2767 5059
+exploring  2777
+exploring  2789
+=n with  2789 3083
+=n with  2789 764459
+=n with  2789 4659043
+exploring  2791
+=n with  2791 2213843
+exploring  2797
+=n with  2797 6883
+=n with  2797 10889
+exploring  2801
+=n with  2801 3533
+=n with  2801 83737
+exploring  2803
+=n with  2803 8933
+=n with  2803 10433
+exploring  2819
+exploring  2833
+=n with  2833 318949
+=n with  2833 2855207
+exploring  2837
+exploring  2843
+=n with  2843 3343
+exploring  2851
+exploring  2857
+exploring  2861
+exploring  2879
+=n with  2879 18493
+exploring  2887
+exploring  2897
+=n with  2897 5279
+=n with  2897 6529
+exploring  2903
+=n with  2903 5052217
+exploring  2909
+exploring  2917
+exploring  2927
+exploring  2939
+=n with  2939 564617
+exploring  2953
+exploring  2957
+=n with  2957 3677
+exploring  2963
+=n with  2963 51349
+=n with  2963 15823501
+exploring  2969
+exploring  2971
+exploring  2999
+=n with  2999 3323
+exploring  3001
+exploring  3011
+exploring  3019
+=n with  3019 7393
+=n with  3019 43613
+=n with  3019 54493
+exploring  3023
+exploring  3037
+exploring  3041
+exploring  3049
+exploring  3061
+=n with  3061 3557
+exploring  3067
+=n with  3067 17047
+=n with  3067 75709
+=n with  3067 223921
+exploring  3079
+exploring  3083
+exploring  3089
+=n with  3089 21503
+exploring  3109
+exploring  3119
+=n with  3119 5281
+exploring  3121
+=n with  3121 106501
+=n with  3121 112757
+=n with  3121 169681
+=n with  3121 211573
+=n with  3121 1115329
+exploring  3137
+=n with  3137 12101
+exploring  3163
+=n with  3163 4229
+exploring  3167
+=n with  3167 9137
+exploring  3169
+=n with  3169 6701
+=n with  3169 35153
+=n with  3169 206263
+exploring  3181
+=n with  3181 3847
+exploring  3187
+=n with  3187 10687
+=n with  3187 11689
+exploring  3191
+=n with  3191 389797
+exploring  3203
+=n with  3203 4349
+=n with  3203 6221
+=n with  3203 51431
+=n with  3203 51439
+=n with  3203 153407
+exploring  3209
+exploring  3217
+exploring  3221
+=n with  3221 4831
+exploring  3229
+=n with  3229 43649
+exploring  3251
+exploring  3253
+=n with  3253 8369
+=n with  3253 256219
+=n with  3253 286397
+=n with  3253 23608049
+exploring  3257
+exploring  3259
+exploring  3271
+exploring  3299
+=n with  3299 2107723
+exploring  3301
+=n with  3301 25657
+exploring  3307
+exploring  3313
+exploring  3319
+=n with  3319 4447
+exploring  3323
+exploring  3329
+=n with  3329 20047
+=n with  3329 21937
+=n with  3329 1671707
+exploring  3331
+=n with  3331 9397
+=n with  3331 19973
+=n with  3331 32771
+=n with  3331 1235659
+=n with  3331 1845731
+exploring  3343
+=n with  3343 4871
+=n with  3343 14831
+=n with  3343 74231
+=n with  3343 776201
+exploring  3347
+exploring  3359
+exploring  3361
+=n with  3361 23767
+exploring  3371
+exploring  3373
+exploring  3389
+exploring  3391
+=n with  3391 50723
+=n with  3391 13175881
+exploring  3407
+=n with  3407 3470083
+=n with  3407 14486071
+exploring  3413
+exploring  3433
+exploring  3449
+exploring  3457
+=n with  3457 11941
+exploring  3461
+=n with  3461 5454257
+exploring  3463
+=n with  3463 2985221
+exploring  3467
+exploring  3469
+exploring  3491
+exploring  3499
+=n with  3499 10333
+=n with  3499 89459
+=n with  3499 4561211
+exploring  3511
+=n with  3511 39251
+=n with  3511 44851
+exploring  3517
+=n with  3517 651481
+=n with  3517 868379
+exploring  3527
+=n with  3527 713149
+=n with  3527 1110013
+=n with  3527 8445433
+=n with  3527 11708743
+=n with  3527 12460999
+=n with  3527 12489371
+=n with  3527 12517579
+=n with  3527 12717799
+=n with  3527 12896599
+=n with  3527 13621903
+=n with  3527 14673443
+exploring  3529
+=n with  3529 26099
+=n with  3529 2039971
+exploring  3533
+=n with  3533 13709
+exploring  3539
+=n with  3539 21803
+=n with  3539 82261
+=n with  3539 88379
+exploring  3541
+=n with  3541 4597
+=n with  3541 783691
+exploring  3547
+exploring  3557
+exploring  3559
+=n with  3559 18679
+=n with  3559 14532019
+=n with  3559 21998923
+exploring  3571
+exploring  3581
+exploring  3583
+exploring  3593
+=n with  3593 23369
+exploring  3607
+exploring  3613
+exploring  3617
+exploring  3623
+=n with  3623 14669689
+exploring  3631
+=n with  3631 38183
+=n with  3631 68567
+=n with  3631 173617
+exploring  3637
+=n with  3637 6007
+exploring  3643
+exploring  3659
+exploring  3671
+=n with  3671 7919
+exploring  3673
+=n with  3673 5039
+=n with  3673 6229
+=n with  3673 8779
+=n with  3673 19841
+=n with  3673 27733
+=n with  3673 42829
+exploring  3677
+exploring  3691
+=n with  3691 45587
+exploring  3697
+=n with  3697 2626937
+exploring  3701
+exploring  3709
+exploring  3719
+exploring  3727
+=n with  3727 301409
+exploring  3733
+exploring  3739
+=n with  3739 4231
+=n with  3739 5153
+exploring  3761
+exploring  3767
+=n with  3767 11027
+exploring  3769
+=n with  3769 87107
+=n with  3769 811259
+=n with  3769 1407751
+exploring  3779
+=n with  3779 12302051
+exploring  3793
+exploring  3797
+=n with  3797 5839
+=n with  3797 6829
+=n with  3797 8291
+=n with  3797 10531
+=n with  3797 127031
+exploring  3803
+=n with  3803 8101
+exploring  3821
+exploring  3823
+exploring  3833
+exploring  3847
+exploring  3851
+exploring  3853
+=n with  3853 3911
+=n with  3853 6277
+exploring  3863
+exploring  3877
+exploring  3881
+exploring  3889
+exploring  3907
+=n with  3907 6143
+=n with  3907 21391
+=n with  3907 33487
+=n with  3907 126421
+exploring  3911
+=n with  3911 45197
+=n with  3911 192853
+=n with  3911 590431
+exploring  3917
+=n with  3917 22961
+=n with  3917 143573
+exploring  3919
+=n with  3919 9791
+=n with  3919 53617
+exploring  3923
+exploring  3929
+=n with  3929 5023
+=n with  3929 440183
+exploring  3931
+=n with  3931 294803
+exploring  3943
+=n with  3943 11443
+=n with  3943 217121
+exploring  3947
+=n with  3947 5179
+=n with  3947 9127
+exploring  3967
+=n with  3967 933407
+=n with  3967 15864481
+=n with  3967 15983911
+exploring  3989
+=n with  3989 4073
+=n with  3989 2023283
+exploring  4001
+=n with  4001 13309
+=n with  4001 14221
+exploring  4003
+=n with  4003 16141
+=n with  4003 17123
+=n with  4003 37987
+=n with  4003 54547
+=n with  4003 81707
+exploring  4007
+=n with  4007 32887
+=n with  4007 37447
+=n with  4007 65827
+=n with  4007 16729523
+exploring  4013
+=n with  4013 4871
+=n with  4013 2071591
+exploring  4019
+=n with  4019 4337
+=n with  4019 5843
+=n with  4019 74771
+exploring  4021
+exploring  4027
+=n with  4027 20369
+exploring  4049
+=n with  4049 3357829
+exploring  4051
+=n with  4051 36697
+=n with  4051 908597
+exploring  4057
+exploring  4073
+=n with  4073 1176221
+exploring  4079
+=n with  4079 98837
+=n with  4079 1371683
+=n with  4079 2056919
+=n with  4079 2331899
+=n with  4079 2604299
+=n with  4079 5545447
+=n with  4079 6380963
+=n with  4079 6920983
+=n with  4079 7749439
+=n with  4079 8729557
+=n with  4079 11055659
+=n with  4079 13388987
+=n with  4079 16345943
+=n with  4079 16659317
+=n with  4079 16663219
+=n with  4079 16665893
+=n with  4079 16760207
+=n with  4079 16809643
+=n with  4079 16813843
+=n with  4079 16816699
+=n with  4079 16884541
+=n with  4079 17045279
+=n with  4079 17076239
+=n with  4079 17101523
+=n with  4079 17157727
+=n with  4079 17169343
+=n with  4079 17354269
+=n with  4079 17366891
+=n with  4079 17514829
+=n with  4079 17579951
+=n with  4079 17660879
+=n with  4079 17720207
+=n with  4079 17797789
+=n with  4079 17806499
+=n with  4079 17847787
+=n with  4079 17898317
+=n with  4079 18356939
+=n with  4079 18534283
+=n with  4079 19413293
+=n with  4079 19437767
+=n with  4079 19734859
+=n with  4079 19798483
+=n with  4079 19981373
+=n with  4079 20548511
+=n with  4079 21427139
+=n with  4079 21498343
+=n with  4079 21533807
+=n with  4079 22145939
+=n with  4079 22870171
+=n with  4079 23157311
+=n with  4079 23529463
+exploring  4091
+exploring  4093
+exploring  4099
+=n with  4099 4423
+exploring  4111
+=n with  4111 80473
+exploring  4127
+exploring  4129
+=n with  4129 286609
+=n with  4129 2383049
+exploring  4133
+=n with  4133 295877
+exploring  4139
+=n with  4139 126067
+=n with  4139 6133199
+=n with  4139 23294459
+exploring  4153
+exploring  4157
+=n with  4157 14126627
+=n with  4157 18236761
+exploring  4159
+=n with  4159 4241
+=n with  4159 10499
+=n with  4159 25243
+=n with  4159 36277
+=n with  4159 37123
+=n with  4159 60217
+exploring  4177
+=n with  4177 4508939
+exploring  4201
+exploring  4211
+exploring  4217
+exploring  4219
+exploring  4229
+=n with  4229 9413
+exploring  4231
+=n with  4231 7013
+exploring  4241
+=n with  4241 5261
+=n with  4241 5881
+exploring  4243
+=n with  4243 9349
+exploring  4253
+=n with  4253 5168021
+exploring  4259
+exploring  4261
+=n with  4261 6389
+=n with  4261 423869
+exploring  4271
+exploring  4273
+=n with  4273 176597
+exploring  4283
+exploring  4289
+=n with  4289 22885873
+exploring  4297
+=n with  4297 62201
+=n with  4297 1539313
+=n with  4297 14768197
+exploring  4327
+exploring  4337
+=n with  4337 62563
+exploring  4339
+=n with  4339 5351
+exploring  4349
+exploring  4357
+exploring  4363
+=n with  4363 5527
+=n with  4363 15679
+exploring  4373
+=n with  4373 60089
+=n with  4373 60251
+exploring  4391
+=n with  4391 117973
+exploring  4397
+=n with  4397 8443
+=n with  4397 88799
+exploring  4409
+=n with  4409 999437
+=n with  4409 2010373
+exploring  4421
+exploring  4423
+=n with  4423 66067
+=n with  4423 531331
+=n with  4423 910177
+=n with  4423 1115417
+=n with  4423 2635411
+=n with  4423 3053329
+exploring  4441
+exploring  4447
+=n with  4447 87631
+=n with  4447 96959
+exploring  4451
+exploring  4457
+=n with  4457 1204583
+exploring  4463
+=n with  4463 8501
+=n with  4463 36821
+=n with  4463 36979
+=n with  4463 49739
+=n with  4463 57107
+exploring  4481
+=n with  4481 1431127
+exploring  4483
+exploring  4493
+exploring  4507
+=n with  4507 4813
+exploring  4513
+exploring  4517
+=n with  4517 10289
+=n with  4517 111263
+exploring  4519
+=n with  4519 70849
+exploring  4523
+exploring  4547
+=n with  4547 5569
+=n with  4547 50087
+exploring  4549
+=n with  4549 4663
+exploring  4561
+=n with  4561 50123
+exploring  4567
+exploring  4583
+=n with  4583 1603801
+exploring  4591
+=n with  4591 14185993
+exploring  4597
+=n with  4597 9497
+=n with  4597 142837
+=n with  4597 209977
+=n with  4597 4742147
+=n with  4597 6487991
+exploring  4603
+exploring  4621
+=n with  4621 10663
+exploring  4637
+=n with  4637 27611
+exploring  4639
+=n with  4639 5821
+=n with  4639 18523
+=n with  4639 45083
+exploring  4643
+exploring  4649
+=n with  4649 13381
+=n with  4649 14479
+exploring  4651
+exploring  4657
+exploring  4663
+exploring  4673
+exploring  4679
+=n with  4679 22035619
+=n with  4679 22120583
+=n with  4679 22367039
+exploring  4691
+=n with  4691 5189
+=n with  4691 9822359
+exploring  4703
+=n with  4703 6359
+=n with  4703 38351
+=n with  4703 59747
+exploring  4721
+=n with  4721 75307
+exploring  4723
+=n with  4723 6691
+exploring  4729
+exploring  4733
+exploring  4751
+=n with  4751 12263
+exploring  4759
+=n with  4759 34519
+exploring  4783
+exploring  4787
+exploring  4789
+=n with  4789 12409
+exploring  4793
+=n with  4793 1532033
+=n with  4793 15031591
+exploring  4799
+exploring  4801
+=n with  4801 101089
+exploring  4813
+exploring  4817
+exploring  4831
+=n with  4831 7073597
+exploring  4861
+exploring  4871
+=n with  4871 6971
+exploring  4877
+exploring  4889
+exploring  4903
+exploring  4909
+=n with  4909 5693
+=n with  4909 5851
+=n with  4909 6277
+=n with  4909 19753
+=n with  4909 8159017
+exploring  4919
+exploring  4931
+=n with  4931 8117
+=n with  4931 8887
+exploring  4933
+=n with  4933 8707
+=n with  4933 363589
+=n with  4933 924827
+exploring  4937
+exploring  4943
+=n with  4943 5903
+exploring  4951
+=n with  4951 17807
+=n with  4951 108751
+=n with  4951 125687
+exploring  4957
+=n with  4957 9679
+=n with  4957 25247
+=n with  4957 94273
+exploring  4967
+exploring  4969
+exploring  4973
+=n with  4973 1512947
+=n with  4973 1831517
+exploring  4987
+=n with  4987 26881
+=n with  4987 31321
+=n with  4987 1080043
+exploring  4993
+exploring  4999
+=n with  4999 148781
+exploring  5003
+=n with  5003 11117
+exploring  5009
+=n with  5009 8513
+=n with  5009 9613
+exploring  5011
+=n with  5011 221497
+=n with  5011 349913
+=n with  5011 402797
+exploring  5021
+=n with  5021 48409
+exploring  5023
+=n with  5023 16477
+exploring  5039
+exploring  5051
+=n with  5051 5521
+=n with  5051 11681
+exploring  5059
+=n with  5059 2248303
+=n with  5059 5180713
+exploring  5077
+=n with  5077 164677
+=n with  5077 7264553
+exploring  5081
+=n with  5081 5387
+=n with  5081 5857
+=n with  5081 6121
+=n with  5081 10091
+=n with  5081 12109
+=n with  5081 16561
+=n with  5081 18757
+=n with  5081 38651
+=n with  5081 41771
+=n with  5081 46997
+=n with  5081 286801
+=n with  5081 21868667
+exploring  5087
+exploring  5099
+=n with  5099 5843
+=n with  5099 21503
+exploring  5101
+exploring  5107
+exploring  5113
+exploring  5119
+=n with  5119 345599
+exploring  5147
+=n with  5147 19913
+exploring  5153
+=n with  5153 247613
+=n with  5153 538697
+exploring  5167
+=n with  5167 625033
+exploring  5171
+=n with  5171 32789
+exploring  5179
+=n with  5179 75017
+exploring  5189
+=n with  5189 5857
+=n with  5189 5953
+=n with  5189 10343
+exploring  5197
+=n with  5197 12809
+=n with  5197 166247
+=n with  5197 807949
+exploring  5209
+=n with  5209 135049
+exploring  5227
+exploring  5231
+exploring  5233
+=n with  5233 488641
+exploring  5237
+exploring  5261
+=n with  5261 12637
+=n with  5261 710851
+exploring  5273
+=n with  5273 9431
+exploring  5279
+exploring  5281
+=n with  5281 7411
+exploring  5297
+=n with  5297 5881
+exploring  5303
+exploring  5309
+exploring  5323
+exploring  5333
+=n with  5333 10651
+=n with  5333 362987
+=n with  5333 4967777
+exploring  5347
+=n with  5347 6397
+exploring  5351
+=n with  5351 6563
+exploring  5381
+exploring  5387
+=n with  5387 31091
+=n with  5387 121843
+exploring  5393
+=n with  5393 87931
+exploring  5399
+=n with  5399 523541
+exploring  5407
+=n with  5407 5521
+=n with  5407 17117
+exploring  5413
+=n with  5413 28751
+exploring  5417
+=n with  5417 67931
+=n with  5417 445297
+=n with  5417 1081541
+exploring  5419
+exploring  5431
+=n with  5431 6053
+exploring  5437
+exploring  5441
+exploring  5443
+=n with  5443 373151
+=n with  5443 2470877
+exploring  5449
+exploring  5471
+=n with  5471 10501
+exploring  5477
+exploring  5479
+=n with  5479 6959
+=n with  5479 22133
+=n with  5479 27179
+=n with  5479 15293293
+exploring  5483
+=n with  5483 10567
+=n with  5483 13463
+=n with  5483 22937
+=n with  5483 39023
+exploring  5501
+=n with  5501 9437
+=n with  5501 22453
+exploring  5503
+=n with  5503 6672881
+=n with  5503 15000353
+exploring  5507
+=n with  5507 13076093
+exploring  5519
+exploring  5521
+=n with  5521 158443
+=n with  5521 211723
+exploring  5527
+=n with  5527 229123
+exploring  5531
+=n with  5531 8663
+exploring  5557
+exploring  5563
+exploring  5569
+exploring  5573
+=n with  5573 77801
+=n with  5573 123001
+exploring  5581
+exploring  5591
+=n with  5591 6089
+=n with  5591 7559
+=n with  5591 13421
+=n with  5591 27109
+=n with  5591 33679
+=n with  5591 132953
+exploring  5623
+exploring  5639
+=n with  5639 8737
+=n with  5639 11273
+=n with  5639 11927
+exploring  5641
+=n with  5641 5879
+exploring  5647
+exploring  5651
+=n with  5651 6317
+exploring  5653
+exploring  5657
+=n with  5657 23087
+=n with  5657 1582429
+=n with  5657 1739719
+=n with  5657 2063423
+exploring  5659
+exploring  5669
+=n with  5669 40241
+exploring  5683
+=n with  5683 649567
+=n with  5683 715859
+exploring  5689
+exploring  5693
+exploring  5701
+=n with  5701 11503
+exploring  5711
+exploring  5717
+exploring  5737
+exploring  5741
+exploring  5743
+exploring  5749
+exploring  5779
+=n with  5779 6917
+=n with  5779 7019
+exploring  5783
+exploring  5791
+=n with  5791 13241
+=n with  5791 35851
+=n with  5791 353897
+exploring  5801
+=n with  5801 9851
+exploring  5807
+exploring  5813
+exploring  5821
+exploring  5827
+=n with  5827 53479
+=n with  5827 16093387
+exploring  5839
+=n with  5839 83477
+exploring  5843
+exploring  5849
+=n with  5849 9007
+=n with  5849 9209
+exploring  5851
+=n with  5851 9467
+=n with  5851 10639
+=n with  5851 72671
+=n with  5851 84389
+exploring  5857
+exploring  5861
+=n with  5861 6971
+=n with  5861 20269
+=n with  5861 172169
+exploring  5867
+=n with  5867 26083
+exploring  5869
+=n with  5869 189433
+=n with  5869 436081
+exploring  5879
+exploring  5881
+exploring  5897
+exploring  5903
+=n with  5903 40583
+=n with  5903 266921
+=n with  5903 5344181
+=n with  5903 7038853
+exploring  5923
+exploring  5927
+=n with  5927 12470041
+exploring  5939
+exploring  5953
+=n with  5953 12451
+=n with  5953 16759
+exploring  5981
+=n with  5981 289139
+=n with  5981 1401443
+exploring  5987
+exploring  6007
+exploring  6011
+exploring  6029
+=n with  6029 11617
+exploring  6037
+exploring  6043
+=n with  6043 7129
+=n with  6043 9749
+=n with  6043 11069
+=n with  6043 39709
+=n with  6043 56713
+=n with  6043 60719
+=n with  6043 81973
+=n with  6043 1769153
+exploring  6047
+exploring  6053
+=n with  6053 32117
+exploring  6067
+exploring  6073
+exploring  6079
+=n with  6079 320699
+=n with  6079 577517
+exploring  6089
+=n with  6089 6803
+=n with  6089 37633
+=n with  6089 39251
+exploring  6091
+=n with  6091 8673157
+exploring  6101
+=n with  6101 8563
+=n with  6101 255947
+exploring  6113
+exploring  6121
+exploring  6131
+=n with  6131 8117
+=n with  6131 291791
+exploring  6133
+=n with  6133 33587
+=n with  6133 358201
+exploring  6143
+exploring  6151
+exploring  6163
+exploring  6173
+exploring  6197
+=n with  6197 10949
+exploring  6199
+exploring  6203
+=n with  6203 688907
+exploring  6211
+=n with  6211 4185803
+exploring  6217
+exploring  6221
+exploring  6229
+exploring  6247
+=n with  6247 14071
+=n with  6247 14168047
+=n with  6247 22641049
+exploring  6257
+=n with  6257 51839
+exploring  6263
+exploring  6269
+=n with  6269 71039
+exploring  6271
+=n with  6271 86351
+exploring  6277
+exploring  6287
+=n with  6287 9391
+=n with  6287 9929
+exploring  6299
+=n with  6299 8101
+=n with  6299 67079
+=n with  6299 373631
+exploring  6301
+=n with  6301 878173
+exploring  6311
+exploring  6317
+=n with  6317 241601
+exploring  6323
+=n with  6323 10601
+=n with  6323 11299
+exploring  6329
+=n with  6329 8081
+exploring  6337
+=n with  6337 1537681
+exploring  6343
+=n with  6343 6637
+=n with  6343 7013
+exploring  6353
+exploring  6359
+exploring  6361
+=n with  6361 2014877
+exploring  6367
+exploring  6373
+exploring  6379
+=n with  6379 576119
+exploring  6389
+=n with  6389 10861
+=n with  6389 221677
+=n with  6389 7791527
+exploring  6397
+exploring  6421
+=n with  6421 189439
+=n with  6421 344167
+exploring  6427
+=n with  6427 147541
+exploring  6449
+=n with  6449 9103
+=n with  6449 15373
+=n with  6449 15583
+=n with  6449 60611
+=n with  6449 87359
+=n with  6449 117763
+exploring  6451
+=n with  6451 560047
+=n with  6451 959603
+exploring  6469
+=n with  6469 33563
+exploring  6473
+=n with  6473 38729
+exploring  6481
+=n with  6481 90121
+=n with  6481 108529
+=n with  6481 1010509
+exploring  6491
+=n with  6491 54721
+exploring  6521
+exploring  6529
+exploring  6547
+=n with  6547 79967
+exploring  6551
+=n with  6551 7297
+exploring  6553
+exploring  6563
+exploring  6569
+=n with  6569 11511953
+exploring  6571
+=n with  6571 153991
+exploring  6577
+=n with  6577 11124121
+exploring  6581
+exploring  6599
+exploring  6607
+exploring  6619
+=n with  6619 93553
+=n with  6619 15254947
+exploring  6637
+=n with  6637 223849
+=n with  6637 246119
+=n with  6637 614687
+=n with  6637 627301
+=n with  6637 1244987
+exploring  6653
+exploring  6659
+exploring  6661
+exploring  6673
+exploring  6679
+exploring  6689
+=n with  6689 12613
+=n with  6689 15241
+exploring  6691
+=n with  6691 70487
+=n with  6691 126743
+=n with  6691 5187313
+exploring  6701
+exploring  6703
+=n with  6703 15959
+exploring  6709
+exploring  6719
+exploring  6733
+=n with  6733 284429
+=n with  6733 815527
+=n with  6733 11900417
+exploring  6737
+exploring  6761
+=n with  6761 162593
+exploring  6763
+exploring  6779
+=n with  6779 679451
+exploring  6781
+exploring  6791
+=n with  6791 1809221
+exploring  6793
+exploring  6803
+exploring  6823
+exploring  6827
+exploring  6829
+exploring  6833
+=n with  6833 32713
+=n with  6833 46901
+exploring  6841
+=n with  6841 7951
+exploring  6857
+exploring  6863
+=n with  6863 1425079
+=n with  6863 2789939
+=n with  6863 3087167
+exploring  6869
+=n with  6869 7583
+exploring  6871
+exploring  6883
+exploring  6899
+exploring  6907
+=n with  6907 13001
+exploring  6911
+=n with  6911 2265611
+exploring  6917
+=n with  6917 394943
+exploring  6947
+exploring  6949
+=n with  6949 36607
+exploring  6959
+exploring  6961
+=n with  6961 349303
+=n with  6961 1170833
+=n with  6961 1285481
+exploring  6967
+exploring  6971
+=n with  6971 111829
+exploring  6977
+exploring  6983
+=n with  6983 54493
+exploring  6991
+exploring  6997
+=n with  6997 259177
+exploring  7001
+=n with  7001 11047
+=n with  7001 17579
+exploring  7013
+=n with  7013 13421
+exploring  7019
+=n with  7019 93491
+=n with  7019 673669
+=n with  7019 1795109
+exploring  7027
+exploring  7039
+=n with  7039 26993
+exploring  7043
+exploring  7057
+exploring  7069
+=n with  7069 20707
+=n with  7069 84319
+exploring  7079
+exploring  7103
+exploring  7109
+=n with  7109 25373
+=n with  7109 7439111
+=n with  7109 17647577
+exploring  7121
+=n with  7121 74197
+=n with  7121 114083
+exploring  7127
+exploring  7129
+exploring  7151
+exploring  7159
+=n with  7159 25243
+exploring  7177
+exploring  7187
+=n with  7187 9623
+=n with  7187 21587
+=n with  7187 21817
+=n with  7187 317959
+=n with  7187 1981619
+exploring  7193
+exploring  7207
+=n with  7207 277183
+=n with  7207 1224133
+exploring  7211
+=n with  7211 45077
+=n with  7211 439133
+=n with  7211 948551
+exploring  7213
+=n with  7213 1318711
+exploring  7219
+exploring  7229
+=n with  7229 684973
+exploring  7237
+=n with  7237 49057
+=n with  7237 656993
+exploring  7243
+=n with  7243 14011
+=n with  7243 208609
+exploring  7247
+exploring  7253
+exploring  7283
+=n with  7283 11173
+=n with  7283 16193
+=n with  7283 4497173
+=n with  7283 5317031
+exploring  7297
+exploring  7307
+=n with  7307 147977
+exploring  7309
+exploring  7321
+=n with  7321 144173
+exploring  7331
+=n with  7331 9433
+=n with  7331 15519743
+exploring  7333
+exploring  7349
+exploring  7351
+exploring  7369
+=n with  7369 14401
+exploring  7393
+exploring  7411
+=n with  7411 448907
+exploring  7417
+exploring  7433
+=n with  7433 167269
+exploring  7451
+=n with  7451 16067
+exploring  7457
+=n with  7457 9337
+=n with  7457 21617
+=n with  7457 3301631
+=n with  7457 4283333
+exploring  7459
+=n with  7459 44189
+=n with  7459 72911
+exploring  7477
+exploring  7481
+exploring  7487
+exploring  7489
+exploring  7499
+=n with  7499 72493
+exploring  7507
+=n with  7507 54959
+exploring  7517
+exploring  7523
+exploring  7529
+=n with  7529 30497
+exploring  7537
+=n with  7537 1656229
+exploring  7541
+exploring  7547
+=n with  7547 18443
+=n with  7547 21323
+exploring  7549
+exploring  7559
+exploring  7561
+exploring  7573
+exploring  7577
+exploring  7583
+exploring  7589
+exploring  7591
+=n with  7591 800971
+exploring  7603
+exploring  7607
+exploring  7621
+=n with  7621 139021
+exploring  7639
+exploring  7643
+exploring  7649
+=n with  7649 14519
+=n with  7649 24443
+=n with  7649 27091
+=n with  7649 233969
+exploring  7669
+exploring  7673
+exploring  7681
+=n with  7681 5282821
+exploring  7687
+exploring  7691
+=n with  7691 86969
+=n with  7691 983083
+exploring  7699
+=n with  7699 7873
+=n with  7699 17569
+=n with  7699 39983
+exploring  7703
+exploring  7717
+=n with  7717 75619
+=n with  7717 185137
+exploring  7723
+=n with  7723 56633
+exploring  7727
+=n with  7727 123653
+exploring  7741
+exploring  7753
+exploring  7757
+=n with  7757 3804547
+exploring  7759
+=n with  7759 157739
+=n with  7759 622483
+exploring  7789
+exploring  7793
+exploring  7817
+exploring  7823
+=n with  7823 11027
+=n with  7823 11923
+=n with  7823 33617
+exploring  7829
+exploring  7841
+=n with  7841 13127
+=n with  7841 14897
+=n with  7841 71719
+exploring  7853
+exploring  7867
+exploring  7873
+exploring  7877
+=n with  7877 41141
+=n with  7877 95177
+exploring  7879
+exploring  7883
+=n with  7883 19031
+=n with  7883 247829
+exploring  7901
+=n with  7901 10753
+=n with  7901 97987
+exploring  7907
+=n with  7907 2962417
+=n with  7907 5851897
+exploring  7919
+=n with  7919 12294773
