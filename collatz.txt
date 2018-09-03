@@ -453,6 +453,7 @@ exploring  941
 exploring  947
 =n with  947 2351
 exploring  953
+=n with  953 28279021
 exploring  967
 =n with  967 13118317
 exploring  971
@@ -1048,6 +1049,7 @@ exploring  2971
 exploring  2999
 =n with  2999 3323
 exploring  3001
+=n with  3001 26888761
 exploring  3011
 exploring  3019
 =n with  3019 7393
@@ -1101,6 +1103,7 @@ exploring  3203
 =n with  3203 153407
 exploring  3209
 exploring  3217
+=n with  3217 24560519
 exploring  3221
 =n with  3221 4831
 exploring  3229
