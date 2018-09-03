@@ -311,6 +311,7 @@ exploring  701
 =n with  701 95483
 exploring  709
 =n with  709 341461
+=n with  709 23302819
 exploring  719
 =n with  719 1579
 =n with  719 120371
@@ -1109,6 +1110,7 @@ exploring  3253
 =n with  3253 8369
 =n with  3253 256219
 =n with  3253 286397
+=n with  3253 23608049
 exploring  3257
 exploring  3259
 exploring  3271
@@ -1388,6 +1390,8 @@ exploring  4079
 =n with  4079 21533807
 =n with  4079 22145939
 =n with  4079 22870171
+=n with  4079 23157311
+=n with  4079 23529463
 exploring  4091
 exploring  4093
 exploring  4099
@@ -1403,6 +1407,7 @@ exploring  4133
 exploring  4139
 =n with  4139 126067
 =n with  4139 6133199
+=n with  4139 23294459
 exploring  4153
 exploring  4157
 =n with  4157 14126627
