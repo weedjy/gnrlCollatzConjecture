@@ -35,12 +35,12 @@ primes_to_check_file.close()
 
 sorted_cycles = collections.OrderedDict()
 for key in sorted(cycles.keys()):
-	sorted_cycles[key] = sorted(cycles[key])
+	if len(cycles[key]) > 0:
+		sorted_cycles[key] = sorted(cycles[key])
 
 
 for key, val in sorted_cycles.items():
-	if len(val) > 0:
-		print(key, val)
+	print(key, val)
 
 
 x = collections.OrderedDict()
@@ -48,5 +48,5 @@ for key in sorted_cycles.keys():
 	x[key] = len(sorted_cycles[key])
 
 
-plt.bar(x.keys(), x.values(), width=20.0, color='b')
+plt.bar(x.keys(), x.values(), width=25.0, color='b')
 plt.show()
