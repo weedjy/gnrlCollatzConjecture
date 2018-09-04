@@ -1395,6 +1395,12 @@ exploring  4079
 =n with  4079 22870171
 =n with  4079 23157311
 =n with  4079 23529463
+=n with  4079 26165837
+=n with  4079 27504887
+=n with  4079 27509683
+=n with  4079 27533167
+=n with  4079 27923983
+=n with  4079 29330207
 exploring  4091
 exploring  4093
 exploring  4099
