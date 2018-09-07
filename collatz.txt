@@ -673,6 +673,7 @@ exploring  1709
 exploring  1721
 =n with  1721 193577
 exploring  1723
+=n with  1723 35157979
 exploring  1733
 exploring  1741
 =n with  1741 963751
@@ -1862,6 +1863,8 @@ exploring  5869
 =n with  5869 189433
 =n with  5869 436081
 exploring  5879
+=n with  5879 35298559
+=n with  5879 35935607
 exploring  5881
 exploring  5897
 exploring  5903
@@ -2124,6 +2127,7 @@ exploring  7069
 =n with  7069 84319
 exploring  7079
 exploring  7103
+=n with  7103 35896417
 exploring  7109
 =n with  7109 25373
 =n with  7109 7439111
@@ -2200,6 +2204,7 @@ exploring  7459
 =n with  7459 44189
 =n with  7459 72911
 exploring  7477
+=n with  7477 35557429
 exploring  7481
 exploring  7487
 exploring  7489
