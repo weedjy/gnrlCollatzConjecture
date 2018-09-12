@@ -558,6 +558,7 @@ exploring  1283
 exploring  1289
 exploring  1291
 exploring  1297
+=n with  1297 51375769
 exploring  1301
 exploring  1303
 =n with  1303 4084741
@@ -895,6 +896,7 @@ exploring  2473
 =n with  2473 17351
 =n with  2473 19571
 exploring  2477
+=n with  2477 51299977
 exploring  2503
 exploring  2521
 =n with  2521 2625761
@@ -2234,6 +2236,7 @@ exploring  7559
 exploring  7561
 exploring  7573
 exploring  7577
+=n with  7577 50905177
 exploring  7583
 exploring  7589
 exploring  7591
