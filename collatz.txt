@@ -807,6 +807,7 @@ exploring  2137
 exploring  2141
 exploring  2143
 exploring  2153
+=n with  2153 57871379
 exploring  2161
 exploring  2179
 =n with  2179 17659
@@ -1456,6 +1457,7 @@ exploring  4243
 exploring  4253
 =n with  4253 5168021
 exploring  4259
+=n with  4259 65051213
 exploring  4261
 =n with  4261 6389
 =n with  4261 423869
@@ -2177,6 +2179,7 @@ exploring  7243
 =n with  7243 14011
 =n with  7243 208609
 exploring  7247
+=n with  7247 59747671
 exploring  7253
 exploring  7283
 =n with  7283 11173
@@ -2194,6 +2197,7 @@ exploring  7331
 =n with  7331 15519743
 exploring  7333
 exploring  7349
+=n with  7349 62130713
 exploring  7351
 exploring  7369
 =n with  7369 14401
@@ -2239,6 +2243,10 @@ exploring  7573
 exploring  7577
 =n with  7577 50905177
 exploring  7583
+=n with  7583 57699671
+=n with  7583 58986299
+=n with  7583 60404411
+=n with  7583 60607381
 exploring  7589
 exploring  7591
 =n with  7591 800971
