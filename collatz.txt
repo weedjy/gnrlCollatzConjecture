@@ -1040,6 +1040,7 @@ exploring  2897
 exploring  2903
 =n with  2903 5052217
 exploring  2909
+=n with  2909 80538037
 exploring  2917
 exploring  2927
 exploring  2939
@@ -1554,6 +1555,7 @@ exploring  4639
 =n with  4639 18523
 =n with  4639 45083
 exploring  4643
+=n with  4643 81154519
 exploring  4649
 =n with  4649 13381
 =n with  4649 14479
@@ -1853,6 +1855,7 @@ exploring  5827
 exploring  5839
 =n with  5839 83477
 exploring  5843
+=n with  5843 75828919
 exploring  5849
 =n with  5849 9007
 =n with  5849 9209
@@ -2026,6 +2029,7 @@ exploring  6547
 exploring  6551
 =n with  6551 7297
 exploring  6553
+=n with  6553 68325899
 exploring  6563
 exploring  6569
 =n with  6569 11511953
@@ -2103,6 +2107,7 @@ exploring  6911
 exploring  6917
 =n with  6917 394943
 exploring  6947
+=n with  6947 83291939
 exploring  6949
 =n with  6949 36607
 exploring  6959
