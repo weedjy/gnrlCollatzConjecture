@@ -1599,6 +1599,7 @@ exploring  4817
 exploring  4831
 =n with  4831 7073597
 exploring  4861
+=n with  4861 91431343
 exploring  4871
 =n with  4871 6971
 exploring  4877
@@ -1833,6 +1834,7 @@ exploring  5711
 exploring  5717
 exploring  5737
 exploring  5741
+=n with  5741 94674401
 exploring  5743
 exploring  5749
 =n with  5749 44551603
@@ -2308,6 +2310,7 @@ exploring  7841
 =n with  7841 71719
 exploring  7853
 exploring  7867
+=n with  7867 87129019
 exploring  7873
 exploring  7877
 =n with  7877 41141
