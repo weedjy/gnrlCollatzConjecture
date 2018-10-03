@@ -1856,6 +1856,7 @@ exploring  5801
 exploring  5807
 exploring  5813
 exploring  5821
+=n with  5821 137342701
 exploring  5827
 =n with  5827 53479
 =n with  5827 16093387
