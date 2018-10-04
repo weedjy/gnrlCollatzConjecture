@@ -1,6 +1,7 @@
 # coding=utf-8
 import codecs
 import collections
+import numpy as np
 import matplotlib.pyplot as plt
 
 
@@ -49,4 +50,14 @@ for key in sorted_cycles.keys():
 
 
 plt.bar(x.keys(), x.values(), width=25.0, color='b')
+plt.show()
+
+counts = ('found', 'not found')
+x_pos = np.arange(len(counts))
+c_values = [len(x.keys()), 1000 - len(x.keys())]
+
+plt.bar(x_pos, c_values, align='center', alpha=0.5, color = 'r')
+plt.xticks(x_pos, counts)
+plt.ylabel('count')
+plt.title('found vs. not found')
 plt.show()
