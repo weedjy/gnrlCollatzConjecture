@@ -1856,6 +1856,7 @@ exploring  5801
 exploring  5807
 exploring  5813
 exploring  5821
+=n with  5821 137342701
 exploring  5827
 =n with  5827 53479
 =n with  5827 16093387
@@ -2038,6 +2039,7 @@ exploring  6551
 exploring  6553
 =n with  6553 68325899
 exploring  6563
+=n with  6563 142836779
 exploring  6569
 =n with  6569 11511953
 exploring  6571
