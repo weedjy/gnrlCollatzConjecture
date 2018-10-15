@@ -971,6 +971,7 @@ exploring  2687
 =n with  2687 9440803
 =n with  2687 16214903
 exploring  2689
+=n with  2689 183891989
 exploring  2693
 =n with  2693 1651553
 exploring  2699
@@ -1945,6 +1946,7 @@ exploring  6133
 exploring  6143
 exploring  6151
 exploring  6163
+=n with  6163 184479263
 exploring  6173
 exploring  6197
 =n with  6197 10949
