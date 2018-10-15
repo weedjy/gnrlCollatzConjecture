@@ -1,2 +1,2 @@
-go run collatz.go > collatz_out_150m-152m.txt
+go run collatz.go > collatz_out_188m-190m.txt
 pause
