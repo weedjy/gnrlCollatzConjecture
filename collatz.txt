@@ -172,6 +172,7 @@ exploring  311
 exploring  313
 =n with  313 17077
 exploring  317
+=n with  317 255276859
 exploring  331
 =n with  331 3073813
 exploring  337
@@ -848,6 +849,7 @@ exploring  2333
 exploring  2339
 =n with  2339 3783929
 exploring  2341
+=n with  2341 252987209
 exploring  2347
 =n with  2347 2477
 =n with  2347 38371
