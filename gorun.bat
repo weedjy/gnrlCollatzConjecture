@@ -1,3 +1,3 @@
-go run collatz.go > collatz_out_232m-242m.txt
+go run collatz.go > collatz_out_325m-326m.txt
 pause
 
