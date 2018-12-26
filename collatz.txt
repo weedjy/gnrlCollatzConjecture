@@ -292,6 +292,7 @@ exploring  641
 =n with  641 4331557
 exploring  643
 exploring  647
+=n with  647 437736413
 exploring  653
 exploring  659
 =n with  659 2731
