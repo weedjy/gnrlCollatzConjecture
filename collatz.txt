@@ -1234,6 +1234,7 @@ exploring  3593
 exploring  3607
 exploring  3613
 exploring  3617
+=n with  3617 469631801
 exploring  3623
 =n with  3623 14669689
 exploring  3631
@@ -1460,6 +1461,7 @@ exploring  4177
 exploring  4201
 exploring  4211
 exploring  4217
+=n with  4217 469481057
 exploring  4219
 exploring  4229
 =n with  4229 9413
